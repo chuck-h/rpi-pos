@@ -18,6 +18,7 @@ Install flutterpi_tool (https://pub.dev/packages/flutterpi_tool):
 `flutter pub global activate flutterpi_tool `
 ### build
 ```
+cd pos
 flutter pub get
 flutterpi_tool build --release
 ```
